@@ -20,7 +20,6 @@ Build With -
 * Python 3.7
 
 Module Used -
-
 All The Module are Latest Version.
 * OpenCV Contrib 4.0.1
 * Pillow
@@ -29,7 +28,6 @@ All The Module are Latest Version.
 * Shutil
 * CSV
 * yagmail
-
 
 Face Recognition Algorithms -
 * Haar Cascade
@@ -41,7 +39,6 @@ Software Used -
 * Git
 
  Installation :key:
-
 After download, Open the project using **Pycharm or VSCODE**. Then we have to create an python enviroment to run the program.
 
 create enviroment 
@@ -91,11 +88,7 @@ pip install yagmail
 Test Run 
 -----------------------
 After creating the enviroment and installing the packages, open the IDE terminal/command line to run the program. Using the code below.
-
 ```
 python main.py
 ```
 
-Create a folder named ImagesUnknown
-and 
-TrainingImage if not found with the project
