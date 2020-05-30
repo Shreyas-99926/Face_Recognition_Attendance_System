@@ -96,3 +96,6 @@ After creating the enviroment and installing the packages, open the IDE terminal
 python main.py
 ```
 
+Create a folder named ImagesUnknown
+and 
+TrainingImage if not found with the project
