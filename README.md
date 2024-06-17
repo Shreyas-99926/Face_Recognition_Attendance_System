@@ -60,7 +60,7 @@ Installing the packages
 After creating the enviroment on your project let's install the necessary packages. 
 
 To install those package open the terminal or command line and paste the code from below
-
+```
 
 pip install opencv-contrib-python
 ```
